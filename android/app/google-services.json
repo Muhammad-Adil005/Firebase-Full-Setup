@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373703395054",
+    "project_id": "flutter-firebase-asif-taj",
+    "storage_bucket": "flutter-firebase-asif-taj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373703395054:android:a9037e30aec2e46acf15ff",
+        "android_client_info": {
+          "package_name": "com.adil.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373703395054-qq7v074550h5nsk9bl6g5mv9oj5s8q9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsq6EwiCVQSeKOZXQEBULg_VzHHMqAF5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373703395054-qq7v074550h5nsk9bl6g5mv9oj5s8q9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
